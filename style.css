@@ -47,8 +47,26 @@ a:hover {
 	margin-left: 40px;
 }
 .overflowFirst {
-	margin-left: 80px; 
+	margin-left: 80px;
 }
 .overflowSecond {
-	margin-left: 120px; 
+	margin-left: 120px;
+}
+
+#pic {
+	width: 25%;
+	height: 25%;
+	transform: rotate(90deg);
+	float: right;
+	/* border-top: 5px solid white;
+	border-bottom: 5px solid white;
+	border-right: 5px solid white; */
+	border: 5px solid white;
+}
+
+#btn {
+	float: right;
+	border: none;
+	background-color: #79ABFF;
+	color: white;
 }
